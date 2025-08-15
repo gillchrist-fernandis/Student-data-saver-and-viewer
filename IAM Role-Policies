@@ -1,0 +1,5 @@
+#IAM Roles
+#we have to create a IAM role theroles are as following
+1.AmazonDynamoDBFullAccess
+2.AWSLambda_FullAccess
+3.AWSLambdaBasicExecutionRole
